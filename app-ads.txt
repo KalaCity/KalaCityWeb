@@ -1,0 +1,64 @@
+{\rtf1\ansi\ansicpg936\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red242\green242\blue242;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c54118;\cssrgb\c96078\c96078\c96078;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl300\partightenfactor0
+
+\f0\fs28 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 unity.com, 1161689, DIRECT, 96cabb5fbdde37a7\
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b\
+adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176\
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176\
+pokkt.com, 6246, RESELLER, c45702d9311e25fd\
+pokkt.com, 7606, RESELLER, c45702d9311e25fd\
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 157384, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 159906, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace\
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace\
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34\
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34\
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6\
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6\
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6\
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6\
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807\
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807\
+rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807\
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807\
+rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807\
+reforge.in, 107, RESELLER\
+reforge.in, 353, RESELLER\
+velismedia.com, 725, RESELLER\
+velismedia.com, 1137, RESELLER\
+appnexus.com, 7353, RESELLER\
+appnexus.com, 2764, RESELLER\
+appnexus.com, 10617, RESELLER\
+appnexus.com, 9393, RESELLER\
+xandr.com, 7353, RESELLER\
+algorix.co, 54616, RESELLER\
+admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER\
+pubnative.net, 1006955, RESELLER, d641df8625486a7b\
+pubnative.net, 1007040, RESELLER, d641df8625486a7b\
+pubnative.net, 1006955, RESELLER, d641df8625486a7b\
+kidoz.net, 19692013, RESELLER\
+lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb\
+webeyemob.com, 70097, RESELLER\
+appads.in, 106246, RESELLER\
+appads.in, 107606, RESELLER\
+indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc\
+indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc\
+indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc\
+bidmachine.io, 113, RESELLER\
+rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47\
+video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47\
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c\
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d\
+google.com, pub-1733366163068322, RESELLER\
+telaria.com, rwd19-1161689, RESELLER, 1a4e959a1b50034a\
+tremorhub.com, rwd19-1161689, RESELLER, 1a4e959a1b50034a\
+}
