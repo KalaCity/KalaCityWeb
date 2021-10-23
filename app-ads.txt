@@ -61,5 +61,5 @@ inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d\
 google.com, pub-1733366163068322, RESELLER\
 telaria.com, rwd19-1161689, RESELLER, 1a4e959a1b50034a\
 tremorhub.com, rwd19-1161689, RESELLER, 1a4e959a1b50034a\
+exchange.admazing.co, AM3, RESELLER\
 }
-exchange.admazing.co, AM3, RESELLER
